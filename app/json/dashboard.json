@@ -1,0 +1,631 @@
+{
+    "pageSize": 15,
+    "docGridInitial": {
+        "documents": [
+            {
+                "text": "David Cameron hopes to heal divisions and unite a party split over Europe",
+                "dcs_neardupe_id": "e1cf8b71-0362-402b-a8c6-f02e08ddd6b8",
+                "clusterSize": 1,
+                "date": "2013-01-15T02:11:41Z",
+                "title_language": "eng",
+                "timestamp": 1358215949333,
+                "id": "858f5d32-b57d-405b-9929-dbdad63eb00d",
+                "snippetHtml": null,
+                "node": false,
+                "title": "David Cameron hopes to heal divisions and unite a party split over Europe",
+                "dcs_nearstory_id": "22",
+                "language": "ENGLISH",
+                "otype": "doc-row",
+                "clusterId": null
+            }
+        ],
+        "totalCount": 52444
+    },
+    "openDocColl": null,
+    "dashboard": {
+        "timeline": [
+            [
+                1357776000000,
+                1
+            ],
+            [
+                1357862400000,
+                516
+            ],
+            [
+                1357948800000,
+                507
+            ],
+            [
+                1358035200000,
+                832
+            ],
+            [
+                1358121600000,
+                774
+            ],
+            [
+                1358208000000,
+                895
+            ],
+            [
+                1358294400000,
+                809
+            ],
+            [
+                1358380800000,
+                799
+            ],
+            [
+                1358467200000,
+                506
+            ],
+            [
+                1358553600000,
+                562
+            ],
+            [
+                1358640000000,
+                837
+            ],
+            [
+                1358726400000,
+                832
+            ],
+            [
+                1358812800000,
+                924
+            ],
+            [
+                1358899200000,
+                802
+            ],
+            [
+                1358985600000,
+                704
+            ],
+            [
+                1359072000000,
+                601
+            ],
+            [
+                1359158400000,
+                615
+            ],
+            [
+                1359244800000,
+                867
+            ],
+            [
+                1359331200000,
+                793
+            ],
+            [
+                1359417600000,
+                707
+            ],
+            [
+                1359504000000,
+                731
+            ],
+            [
+                1359590400000,
+                686
+            ],
+            [
+                1359676800000,
+                470
+            ],
+            [
+                1359763200000,
+                448
+            ],
+            [
+                1359849600000,
+                716
+            ],
+            [
+                1359936000000,
+                714
+            ],
+            [
+                1360022400000,
+                697
+            ],
+            [
+                1360108800000,
+                748
+            ],
+            [
+                1360195200000,
+                697
+            ],
+            [
+                1360281600000,
+                491
+            ],
+            [
+                1360368000000,
+                452
+            ],
+            [
+                1360454400000,
+                576
+            ],
+            [
+                1360540800000,
+                725
+            ],
+            [
+                1360627200000,
+                694
+            ],
+            [
+                1360713600000,
+                692
+            ],
+            [
+                1360800000000,
+                660
+            ],
+            [
+                1360886400000,
+                473
+            ],
+            [
+                1360972800000,
+                466
+            ],
+            [
+                1361059200000,
+                728
+            ],
+            [
+                1361145600000,
+                683
+            ],
+            [
+                1361232000000,
+                808
+            ],
+            [
+                1361318400000,
+                713
+            ],
+            [
+                1361404800000,
+                709
+            ],
+            [
+                1361491200000,
+                469
+            ],
+            [
+                1361577600000,
+                451
+            ],
+            [
+                1361664000000,
+                690
+            ],
+            [
+                1361750400000,
+                750
+            ],
+            [
+                1361836800000,
+                733
+            ],
+            [
+                1361923200000,
+                767
+            ],
+            [
+                1362009600000,
+                669
+            ],
+            [
+                1362096000000,
+                470
+            ],
+            [
+                1362182400000,
+                585
+            ],
+            [
+                1362268800000,
+                724
+            ],
+            [
+                1362355200000,
+                734
+            ],
+            [
+                1362441600000,
+                778
+            ],
+            [
+                1362528000000,
+                906
+            ],
+            [
+                1362614400000,
+                701
+            ],
+            [
+                1362700800000,
+                494
+            ],
+            [
+                1362787200000,
+                481
+            ],
+            [
+                1362873600000,
+                646
+            ],
+            [
+                1362960000000,
+                740
+            ],
+            [
+                1363046400000,
+                682
+            ],
+            [
+                1363132800000,
+                707
+            ],
+            [
+                1363219200000,
+                727
+            ],
+            [
+                1363305600000,
+                498
+            ],
+            [
+                1363392000000,
+                390
+            ],
+            [
+                1363478400000,
+                695
+            ],
+            [
+                1363564800000,
+                730
+            ],
+            [
+                1363651200000,
+                1131
+            ],
+            [
+                1363737600000,
+                727
+            ],
+            [
+                1363824000000,
+                716
+            ],
+            [
+                1363910400000,
+                482
+            ],
+            [
+                1363996800000,
+                466
+            ],
+            [
+                1364083200000,
+                728
+            ],
+            [
+                1364169600000,
+                726
+            ],
+            [
+                1364256000000,
+                702
+            ],
+            [
+                1364342400000,
+                721
+            ],
+            [
+                1364428800000,
+                614
+            ],
+            [
+                1364515200000,
+                452
+            ],
+            [
+                1364601600000,
+                103
+            ],
+            [
+                1364688000000,
+                0
+            ]
+        ],
+        "docCount": 52444,
+        "facets": [
+            {
+                "id": "PERSON",
+                "leaders": [
+                    {
+                        "count": 3834,
+                        "id": "E0566375",
+                        "name": "Barack Obama"
+                    },
+                    {
+                        "count": 1954,
+                        "id": "E0089532",
+                        "name": "Bashar al-Assad"
+                    },
+                    {
+                        "count": 1597,
+                        "id": "E0553745",
+                        "name": "David Cameron"
+                    },
+                    {
+                        "count": 1289,
+                        "id": "753-PERSON",
+                        "name": "محمد بن راشد آل مكتوم"
+                    },
+                    {
+                        "count": 1108,
+                        "id": "1631-PERSON",
+                        "name": "Mohamed Morsi"
+                    },
+                    {
+                        "count": 1034,
+                        "id": "E0462110",
+                        "name": "François Hollande"
+                    },
+                    {
+                        "count": 971,
+                        "id": "E0528034",
+                        "name": "Pope Benedict XVI"
+                    },
+                    {
+                        "count": 909,
+                        "id": "2386-PERSON",
+                        "name": "Arshad Mohammed"
+                    },
+                    {
+                        "count": 841,
+                        "id": "190-PERSON",
+                        "name": "John Kerry"
+                    },
+                    {
+                        "count": 791,
+                        "id": "E0628015",
+                        "name": "Hugo Chávez"
+                    }
+                ],
+                "filters": [],
+                "name": "People"
+            },
+            {
+                "id": "language",
+                "leaders": [
+                    {
+                        "count": 43516,
+                        "id": "ENGLISH",
+                        "name": "ENGLISH"
+                    },
+                    {
+                        "count": 8909,
+                        "id": "ARABIC",
+                        "name": "ARABIC"
+                    },
+                    {
+                        "count": 8,
+                        "id": "PUSHTO",
+                        "name": "PUSHTO"
+                    },
+                    {
+                        "count": 5,
+                        "id": "FRENCH",
+                        "name": "FRENCH"
+                    },
+                    {
+                        "count": 3,
+                        "id": "ITALIAN",
+                        "name": "ITALIAN"
+                    },
+                    {
+                        "count": 1,
+                        "id": "HUNGARIAN",
+                        "name": "HUNGARIAN"
+                    },
+                    {
+                        "count": 1,
+                        "id": "POLISH",
+                        "name": "POLISH"
+                    },
+                    {
+                        "count": 1,
+                        "id": "SPANISH",
+                        "name": "SPANISH"
+                    }
+                ],
+                "filters": [],
+                "name": "Languages"
+            },
+            {
+                "id": "LOCATION",
+                "leaders": [
+                    {
+                        "count": 13687,
+                        "id": "E0679687",
+                        "name": "United States"
+                    },
+                    {
+                        "count": 5793,
+                        "id": "E0018102",
+                        "name": "United Kingdom"
+                    },
+                    {
+                        "count": 4177,
+                        "id": "9-LOCATION",
+                        "name": "Europe"
+                    },
+                    {
+                        "count": 4080,
+                        "id": "E0397283",
+                        "name": "London"
+                    },
+                    {
+                        "count": 4030,
+                        "id": "15-LOCATION",
+                        "name": "Africa"
+                    },
+                    {
+                        "count": 3819,
+                        "id": "E0401466",
+                        "name": "Washington"
+                    },
+                    {
+                        "count": 3740,
+                        "id": "E0550909",
+                        "name": "France"
+                    },
+                    {
+                        "count": 3733,
+                        "id": "E0676446",
+                        "name": "Great Britain"
+                    },
+                    {
+                        "count": 3408,
+                        "id": "45-LOCATION",
+                        "name": "China"
+                    },
+                    {
+                        "count": 3122,
+                        "id": "E0116532",
+                        "name": "Egypt"
+                    }
+                ],
+                "filters": [],
+                "name": "Locations"
+            },
+            {
+                "id": "ORGANIZATION",
+                "leaders": [
+                    {
+                        "count": 8249,
+                        "id": "E0345645",
+                        "name": "Reuters"
+                    },
+                    {
+                        "count": 6265,
+                        "id": "E0384127",
+                        "name": "BBC"
+                    },
+                    {
+                        "count": 5107,
+                        "id": "E0728066",
+                        "name": "United Nations"
+                    },
+                    {
+                        "count": 4615,
+                        "id": "E0601466",
+                        "name": "Associated Press"
+                    },
+                    {
+                        "count": 4524,
+                        "id": "E0452775",
+                        "name": "Twitter"
+                    },
+                    {
+                        "count": 3805,
+                        "id": "E0689220",
+                        "name": "Agence France-Presse"
+                    },
+                    {
+                        "count": 3311,
+                        "id": "2004-ORGANIZATION",
+                        "name": "parliament"
+                    },
+                    {
+                        "count": 3035,
+                        "id": "25-ORGANIZATION",
+                        "name": "Getty Images"
+                    },
+                    {
+                        "count": 2962,
+                        "id": "E0693519",
+                        "name": "The Guardian"
+                    },
+                    {
+                        "count": 2913,
+                        "id": "109-ORGANIZATION",
+                        "name": "foreign ministry"
+                    }
+                ],
+                "filters": [],
+                "name": "Organizations"
+            },
+            {
+                "id": "rssh_site",
+                "leaders": [
+                    {
+                        "count": 9199,
+                        "id": "www.guardian.co.uk",
+                        "name": "www.guardian.co.uk"
+                    },
+                    {
+                        "count": 8992,
+                        "id": "www.bbc.co.uk",
+                        "name": "www.bbc.co.uk"
+                    },
+                    {
+                        "count": 5851,
+                        "id": "allafrica.com",
+                        "name": "allafrica.com"
+                    },
+                    {
+                        "count": 5800,
+                        "id": "www.alittihad.ae",
+                        "name": "www.alittihad.ae"
+                    },
+                    {
+                        "count": 4144,
+                        "id": "www.reuters.com",
+                        "name": "www.reuters.com"
+                    },
+                    {
+                        "count": 3630,
+                        "id": "feeds.abcnews.com",
+                        "name": "feeds.abcnews.com"
+                    },
+                    {
+                        "count": 3153,
+                        "id": "www.nytimes.com",
+                        "name": "www.nytimes.com"
+                    },
+                    {
+                        "count": 3069,
+                        "id": "www.aljazeera.com",
+                        "name": "www.aljazeera.com"
+                    },
+                    {
+                        "count": 1791,
+                        "id": "alwatan.kuwait.tt",
+                        "name": "alwatan.kuwait.tt"
+                    },
+                    {
+                        "count": 1549,
+                        "id": "rss.cnn.com",
+                        "name": "rss.cnn.com"
+                    }
+                ],
+                "filters": [],
+                "name": "Source"
+            }
+        ]
+    }
+}

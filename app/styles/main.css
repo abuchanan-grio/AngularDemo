@@ -1,0 +1,13 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+
+div[bar] {
+    display:none;
+    height:50%;
+    width:50%;
+}
+
+div[pie] {
+    display:none;
+    height:50%;
+    width:50%;
+}
