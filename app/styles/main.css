@@ -1,13 +1,13 @@
 /* Will be compiled down to a single stylesheet with your sass files */
 
-div[bar] {
-    display:none;
-    height:50%;
-    width:50%;
+.chart {
+	float:left;
+	overflow:hidden;
+	width:500px;
+	height:400px;	
 }
 
-div[pie] {
-    display:none;
-    height:50%;
-    width:50%;
+.pie {
+	width:600px;
+	height:400px;		
 }
