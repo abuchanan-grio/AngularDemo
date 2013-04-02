@@ -179,6 +179,9 @@ angular.module('AngularDemoApp')
         },        
         rangeSelector : {
           enabled : true
+        },
+        yAxis : {
+          min : 0
         }
       };
 
