@@ -6,8 +6,8 @@ body {
 .chart {
 	overflow:hidden;
 	border : 1px solid #ccc;	
-	width:400px;
-	height:400px;
+	width:350px;
+	height:350px;
 	margin-bottom:10px;
 }
 
@@ -22,7 +22,7 @@ body {
 	height:20px;
 	position:relative;
 	overflow:hidden;
-	width:400px;
+	width:350px;
 }
 
 .chart_title h3 {
@@ -44,8 +44,8 @@ body {
 }
 
 .pie {
-	width:400px;
-	height:400px;
+	width:350px;
+	height:350px;
 }
 
 #navigation {
