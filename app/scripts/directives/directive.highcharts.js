@@ -18,10 +18,34 @@ angular.module('AngularDemoApp')
           width : attrs.width || null
         },
         title : {
-          text : attrs.title || ''
+          align : 'left',
+          text : '<div class="chart_title"><h3>' + attrs.title + '</h3><span>Document count</span>' + '</div>' || '',
+          useHTML : true,
+          x:-10,
+          y:6
         },
+        colors : (attrs.color) ? [attrs.color] : ['#000000'],
+        credits : {
+          enabled : false,
+        },        
         legend : {
           enabled : false
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: true
+                }
+            }
+        },
+        yAxis : {
+          min : 0,
+          title : {
+            text : ''
+          },
+          labels : {
+            overflow : 'justify'
+          }
         }
       };
 
@@ -52,15 +76,6 @@ angular.module('AngularDemoApp')
                 text : null
               }
             },
-            yAxis : {
-              min : 0,
-              title : {
-                text : ''
-              },
-              labels : {
-                overflow : 'justify'
-              }
-            },
             series : [{
               data : data
             }]
@@ -88,7 +103,14 @@ angular.module('AngularDemoApp')
           width : attrs.width || null
         },
         title : {
-          text : attrs.title || ''
+          align : 'left',
+          text : '<div class="chart_title"><h3>' + attrs.title + '</h3><span>Document count</span>' + '</div>' || '',
+          useHTML : true,
+          x:-10,
+          y:6
+        },
+        credits : {
+          enabled : false,
         },
         plotOptions: {
           pie: {
@@ -152,6 +174,9 @@ angular.module('AngularDemoApp')
         title : {
           text : attrs.title || ''
         },
+        credits : {
+          enabled : false,
+        },        
         rangeSelector : {
           enabled : true
         }

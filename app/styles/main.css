@@ -4,15 +4,48 @@ body {
 }
 
 .chart {
-	float:left;
 	overflow:hidden;
-	width:500px;
-	height:400px;	
+	border : 1px solid #ccc;	
+	width:400px;
+	height:400px;
+	margin-bottom:10px;
+}
+
+.chart.first {
+	float:left;
+	margin-right:10px;
+}
+
+.chart_title {
+	background:#ccc;
+	color:#000;
+	height:20px;
+	position:relative;
+	overflow:hidden;
+	width:400px;
+}
+
+.chart_title h3 {
+	margin:0;
+	position:absolute;
+	font-size:12px;
+	font-weight:bold;
+	left:5px;
+	bottom:3px;
+}
+
+.chart_title span {
+	margin:0;
+	font-weight:bold;
+	position:absolute;
+	font-size:12px;
+	right:20px;
+	bottom:3px;
 }
 
 .pie {
-	width:600px;
-	height:400px;		
+	width:400px;
+	height:400px;
 }
 
 #navigation {
