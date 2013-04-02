@@ -2,11 +2,10 @@
 
 var App = angular.module('AngularDemoApp');
 
-
 App.directive('bar', function() {
 	return {
 	    restrict: 'A',
-	    link: function(scope, elem, attrs){
+	    link: function(scope, elem, attrs) {
 	        var chart = null;	
 	             
 	        scope.$watch(attrs.ngModel, function(v) {
@@ -46,7 +45,7 @@ App.directive('bar', function() {
 App.directive('pie', function() {
 	return {
 	    restrict: 'A',
-	    link: function(scope, elem, attrs){
+	    link: function(scope, elem, attrs) {
 	        var chart = null;	
 	             
 	        scope.$watch(attrs.ngModel, function(v) {
@@ -78,4 +77,3 @@ App.directive('pie', function() {
 	    }
 	};
 });
-

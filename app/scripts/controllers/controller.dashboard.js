@@ -14,4 +14,3 @@ App.controller('DashboardCtrl', function($scope, $http) {
 		}
 	});
 });
-
