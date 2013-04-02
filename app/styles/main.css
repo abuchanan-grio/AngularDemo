@@ -1,4 +1,7 @@
 /* Will be compiled down to a single stylesheet with your sass files */
+body {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
 
 .chart {
 	float:left;
@@ -10,4 +13,30 @@
 .pie {
 	width:600px;
 	height:400px;		
+}
+
+#navigation {
+	overflow:hidden;
+}
+
+#navigation .nav {
+	position:relative;
+	overflow:hidden;
+}
+
+#navigation .nav img:nth-child(2) {
+	position:absolute;
+	right:0px;
+}
+
+#navigation .dashboard {
+	background:#003C3D;
+	color:#fff;
+	height:30px;
+	overflow:hidden;
+}
+
+#navigation .dashboard h3 {
+	display:block;
+	margin:5px 0 0 5px;
 }

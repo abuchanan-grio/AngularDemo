@@ -118,9 +118,6 @@ angular.module('AngularDemoApp')
             data.push([v[i].name, v[i].count]);
           }
 
-          // We need deep copy in order to NOT override original chart object.
-          // This allows us to override chart data member and still the keep
-          // our original renderTo will be the same
           var deepCopy = true;
           var newSettings = {};
 
@@ -133,6 +130,52 @@ angular.module('AngularDemoApp')
 
           $.extend(deepCopy, newSettings, chartsDefaults, pieSettings);
           var chart = new Highcharts.Chart(newSettings);
+        });
+      }
+    }
+})
+
+.directive('stockchart', function () {
+  return {
+    restrict: 'E',
+    template: '<div></div>',
+    transclude:true,
+    replace: true,
+
+    link: function (scope, element, attrs) {
+      var chartsDefaults = {
+        chart : {
+          renderTo : element[0],
+          height : attrs.height || null,
+          width : attrs.width || null
+        },
+        title : {
+          text : attrs.title || ''
+        },
+        rangeSelector : {
+          enabled : true
+        }
+      };
+
+      scope.$watch(function() {
+          return attrs.value;
+      }, function(value) {
+          if(!attrs.value) return;
+
+          // Construct data          
+          var data = JSON.parse(attrs.value);
+
+          var deepCopy = true;
+          var newSettings = {};
+
+          var stockSettings = {
+            series : [{
+              data : data
+            }]
+          };
+
+          $.extend(deepCopy, newSettings, chartsDefaults, stockSettings);
+          var chart = new Highcharts.StockChart(newSettings);
         });
       }
     }
