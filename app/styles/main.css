@@ -82,6 +82,12 @@ body {
 	margin:5px 0 0 5px;
 }
 
+#documents .charts {
+	float:left;
+	width:350px;
+	margin-right:10px	
+}
+
 #documents table {
 	width:800px
 }
