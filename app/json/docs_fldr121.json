@@ -1,0 +1,661 @@
+{
+    "pageSize": 15,
+    "docGridInitial": {
+        "documents": [
+            {
+                "text": "Pope Francis, first day after election - live updates",
+                "dcs_neardupe_id": "0760ff96-40d4-4393-86b0-d3111b0d1ad2",
+                "clusterSize": 1,
+                "date": "2013-03-14T22:55:38Z",
+                "title_language": "eng",
+                "timestamp": 1363301818027,
+                "id": "2a843dc0-1d6a-465e-8f03-d8bf20f0954a",
+                "snippetHtml": null,
+                "node": false,
+                "title": "Pope Francis, first day after election - live updates",
+                "dcs_nearstory_id": "16425",
+                "language": "ENGLISH",
+                "otype": "doc-row",
+                "clusterId": null
+            },
+            {
+                "text": "West tiptoes into Syrian war hoping to boost more secular rebels",
+                "dcs_neardupe_id": "22b17bab-f2f7-4740-b452-ba0a5d843cf2",
+                "clusterSize": 1,
+                "date": "2013-03-14T19:55:15Z",
+                "title_language": "eng",
+                "timestamp": 1363291215728,
+                "id": "212073ca-b834-4d72-8836-e6ad75c10c95",
+                "snippetHtml": null,
+                "node": false,
+                "title": "West tiptoes into Syrian war hoping to boost more secular rebels",
+                "dcs_nearstory_id": "16404",
+                "language": "ENGLISH",
+                "otype": "doc-row",
+                "clusterId": null
+            },
+            {
+                "text": "Pope Francis, first day after election - live updates",
+                "dcs_neardupe_id": "0760ff96-40d4-4393-86b0-d3111b0d1ad2",
+                "clusterSize": 1,
+                "date": "2013-03-14T19:55:12Z",
+                "title_language": "eng",
+                "timestamp": 1363291122919,
+                "id": "944f76e9-4c6e-4d86-9856-985facce68f7",
+                "snippetHtml": null,
+                "node": false,
+                "title": "Pope Francis, first day after election - live updates",
+                "dcs_nearstory_id": "16425",
+                "language": "ENGLISH",
+                "otype": "doc-row",
+                "clusterId": null
+            },
+            {
+                "text": "Pope Francis, first day after election - live updates",
+                "dcs_neardupe_id": "0760ff96-40d4-4393-86b0-d3111b0d1ad2",
+                "clusterSize": 1,
+                "date": "2013-03-14T16:54:36Z",
+                "title_language": "eng",
+                "timestamp": 1363280205306,
+                "id": "b2413e30-3422-43c6-96e6-27b5f1e809a9",
+                "snippetHtml": null,
+                "node": false,
+                "title": "Pope Francis, first day after election - live updates",
+                "dcs_nearstory_id": "16425",
+                "language": "ENGLISH",
+                "otype": "doc-row",
+                "clusterId": null
+            },
+            {
+                "text": "New Pope Selection Shifts Church's Center Away From Europe",
+                "dcs_neardupe_id": "335945f1-c3b8-4239-94f9-861eb1d885e0",
+                "clusterSize": 1,
+                "date": "2013-03-14T04:53:02Z",
+                "title_language": "eng",
+                "timestamp": 1363236798727,
+                "id": "240aed72-c7bc-4bdd-990d-e6d43cdcc733",
+                "snippetHtml": null,
+                "node": false,
+                "title": "New Pope Selection Shifts Church's Center Away From Europe",
+                "dcs_nearstory_id": "16425",
+                "language": "ENGLISH",
+                "otype": "doc-row",
+                "clusterId": null
+            },
+            {
+                "text": "New Pope Is First Non-European to Lead Church in 1,200 Years",
+                "dcs_neardupe_id": "4e8b5d3d-609e-4037-8c59-7487c955924a",
+                "clusterSize": 1,
+                "date": "2013-03-14T01:52:42Z",
+                "title_language": "eng",
+                "timestamp": 1363225983736,
+                "id": "335945f1-c3b8-4239-94f9-861eb1d885e0",
+                "snippetHtml": null,
+                "node": false,
+                "title": "New Pope Is First Non-European to Lead Church in 1,200 Years",
+                "dcs_nearstory_id": "16425",
+                "language": "ENGLISH",
+                "otype": "doc-row",
+                "clusterId": null
+            }
+        ],
+        "totalCount": 6
+    },
+    "openDocColl": {
+        "id": 121,
+        "isCurrent": true,
+        "isMine": true
+    },
+    "dashboard": {
+        "timeline": [
+            [
+                1357776000000,
+                0
+            ],
+            [
+                1357862400000,
+                0
+            ],
+            [
+                1357948800000,
+                0
+            ],
+            [
+                1358035200000,
+                0
+            ],
+            [
+                1358121600000,
+                0
+            ],
+            [
+                1358208000000,
+                0
+            ],
+            [
+                1358294400000,
+                0
+            ],
+            [
+                1358380800000,
+                0
+            ],
+            [
+                1358467200000,
+                0
+            ],
+            [
+                1358553600000,
+                0
+            ],
+            [
+                1358640000000,
+                0
+            ],
+            [
+                1358726400000,
+                0
+            ],
+            [
+                1358812800000,
+                0
+            ],
+            [
+                1358899200000,
+                0
+            ],
+            [
+                1358985600000,
+                0
+            ],
+            [
+                1359072000000,
+                0
+            ],
+            [
+                1359158400000,
+                0
+            ],
+            [
+                1359244800000,
+                0
+            ],
+            [
+                1359331200000,
+                0
+            ],
+            [
+                1359417600000,
+                0
+            ],
+            [
+                1359504000000,
+                0
+            ],
+            [
+                1359590400000,
+                0
+            ],
+            [
+                1359676800000,
+                0
+            ],
+            [
+                1359763200000,
+                0
+            ],
+            [
+                1359849600000,
+                0
+            ],
+            [
+                1359936000000,
+                0
+            ],
+            [
+                1360022400000,
+                0
+            ],
+            [
+                1360108800000,
+                0
+            ],
+            [
+                1360195200000,
+                0
+            ],
+            [
+                1360281600000,
+                0
+            ],
+            [
+                1360368000000,
+                0
+            ],
+            [
+                1360454400000,
+                0
+            ],
+            [
+                1360540800000,
+                0
+            ],
+            [
+                1360627200000,
+                0
+            ],
+            [
+                1360713600000,
+                0
+            ],
+            [
+                1360800000000,
+                0
+            ],
+            [
+                1360886400000,
+                0
+            ],
+            [
+                1360972800000,
+                0
+            ],
+            [
+                1361059200000,
+                0
+            ],
+            [
+                1361145600000,
+                0
+            ],
+            [
+                1361232000000,
+                0
+            ],
+            [
+                1361318400000,
+                0
+            ],
+            [
+                1361404800000,
+                0
+            ],
+            [
+                1361491200000,
+                0
+            ],
+            [
+                1361577600000,
+                0
+            ],
+            [
+                1361664000000,
+                0
+            ],
+            [
+                1361750400000,
+                0
+            ],
+            [
+                1361836800000,
+                0
+            ],
+            [
+                1361923200000,
+                0
+            ],
+            [
+                1362009600000,
+                0
+            ],
+            [
+                1362096000000,
+                0
+            ],
+            [
+                1362182400000,
+                0
+            ],
+            [
+                1362268800000,
+                0
+            ],
+            [
+                1362355200000,
+                0
+            ],
+            [
+                1362441600000,
+                0
+            ],
+            [
+                1362528000000,
+                0
+            ],
+            [
+                1362614400000,
+                0
+            ],
+            [
+                1362700800000,
+                0
+            ],
+            [
+                1362787200000,
+                0
+            ],
+            [
+                1362873600000,
+                0
+            ],
+            [
+                1362960000000,
+                0
+            ],
+            [
+                1363046400000,
+                0
+            ],
+            [
+                1363132800000,
+                5
+            ],
+            [
+                1363219200000,
+                1
+            ],
+            [
+                1363305600000,
+                0
+            ],
+            [
+                1363392000000,
+                0
+            ],
+            [
+                1363478400000,
+                0
+            ],
+            [
+                1363564800000,
+                0
+            ],
+            [
+                1363651200000,
+                0
+            ],
+            [
+                1363737600000,
+                0
+            ],
+            [
+                1363824000000,
+                0
+            ],
+            [
+                1363910400000,
+                0
+            ],
+            [
+                1363996800000,
+                0
+            ],
+            [
+                1364083200000,
+                0
+            ],
+            [
+                1364169600000,
+                0
+            ],
+            [
+                1364256000000,
+                0
+            ],
+            [
+                1364342400000,
+                0
+            ],
+            [
+                1364428800000,
+                0
+            ],
+            [
+                1364515200000,
+                0
+            ],
+            [
+                1364601600000,
+                0
+            ],
+            [
+                1364688000000,
+                0
+            ],
+            [
+                1364774400000,
+                0
+            ],
+            [
+                1364860800000,
+                0
+            ],
+            [
+                1364947200000,
+                0
+            ],
+            [
+                1365033600000,
+                0
+            ]
+        ],
+        "docCount": 6,
+        "facets": [
+            {
+                "id": "PERSON",
+                "leaders": [
+                    {
+                        "count": 6,
+                        "id": "8141-PERSON",
+                        "name": "Francis"
+                    },
+                    {
+                        "count": 6,
+                        "id": "E0566375",
+                        "name": "Barack Obama"
+                    },
+                    {
+                        "count": 6,
+                        "id": "E0674982",
+                        "name": "Jorge Bergoglio"
+                    },
+                    {
+                        "count": 5,
+                        "id": "31234-PERSON",
+                        "name": "Federico Lombardi"
+                    },
+                    {
+                        "count": 5,
+                        "id": "E0528034",
+                        "name": "Pope Benedict XVI"
+                    },
+                    {
+                        "count": 4,
+                        "id": "E0124864",
+                        "name": "Timothy Dolan"
+                    },
+                    {
+                        "count": 4,
+                        "id": "E0763239",
+                        "name": "Alessandro Bianchi"
+                    },
+                    {
+                        "count": 3,
+                        "id": "10337-PERSON",
+                        "name": "Eric Gaillard"
+                    },
+                    {
+                        "count": 3,
+                        "id": "11362-PERSON",
+                        "name": "John Vidal"
+                    },
+                    {
+                        "count": 3,
+                        "id": "124-PERSON",
+                        "name": "Peter Macdiarmid"
+                    }
+                ],
+                "filters": [],
+                "name": "People"
+            },
+            {
+                "id": "language",
+                "leaders": [
+                    {
+                        "count": 6,
+                        "id": "ENGLISH",
+                        "name": "ENGLISH"
+                    }
+                ],
+                "filters": [],
+                "name": "Languages"
+            },
+            {
+                "id": "LOCATION",
+                "leaders": [
+                    {
+                        "count": 5,
+                        "id": "141-LOCATION",
+                        "name": "Latin America"
+                    },
+                    {
+                        "count": 5,
+                        "id": "3694-LOCATION",
+                        "name": "St. Peter's Square"
+                    },
+                    {
+                        "count": 5,
+                        "id": "4036-LOCATION",
+                        "name": "Vatican"
+                    },
+                    {
+                        "count": 5,
+                        "id": "72-LOCATION",
+                        "name": "Americas"
+                    },
+                    {
+                        "count": 5,
+                        "id": "E0437985",
+                        "name": "Buenos Aires"
+                    },
+                    {
+                        "count": 5,
+                        "id": "E0533047",
+                        "name": "Argentina"
+                    },
+                    {
+                        "count": 5,
+                        "id": "E0605604",
+                        "name": "Rome"
+                    },
+                    {
+                        "count": 5,
+                        "id": "E0679687",
+                        "name": "United States"
+                    },
+                    {
+                        "count": 4,
+                        "id": "9-LOCATION",
+                        "name": "Europe"
+                    },
+                    {
+                        "count": 4,
+                        "id": "E0401466",
+                        "name": "Washington"
+                    }
+                ],
+                "filters": [],
+                "name": "Locations"
+            },
+            {
+                "id": "ORGANIZATION",
+                "leaders": [
+                    {
+                        "count": 5,
+                        "id": "E0345645",
+                        "name": "Reuters"
+                    },
+                    {
+                        "count": 4,
+                        "id": "25-ORGANIZATION",
+                        "name": "Getty Images"
+                    },
+                    {
+                        "count": 4,
+                        "id": "E0601466",
+                        "name": "Associated Press"
+                    },
+                    {
+                        "count": 4,
+                        "id": "E0693519",
+                        "name": "The Guardian"
+                    },
+                    {
+                        "count": 3,
+                        "id": "109-ORGANIZATION",
+                        "name": "foreign ministry"
+                    },
+                    {
+                        "count": 3,
+                        "id": "16070-ORGANIZATION",
+                        "name": "Curia"
+                    },
+                    {
+                        "count": 3,
+                        "id": "16714-ORGANIZATION",
+                        "name": "Catholic News Service"
+                    },
+                    {
+                        "count": 3,
+                        "id": "27688-ORGANIZATION",
+                        "name": "Salus Populi Romani"
+                    },
+                    {
+                        "count": 3,
+                        "id": "27765-ORGANIZATION",
+                        "name": "Bain"
+                    },
+                    {
+                        "count": 3,
+                        "id": "27771-ORGANIZATION",
+                        "name": "Anglican Communion News Service"
+                    }
+                ],
+                "filters": [],
+                "name": "Organizations"
+            },
+            {
+                "id": "rssh_site",
+                "leaders": [
+                    {
+                        "count": 3,
+                        "id": "www.guardian.co.uk",
+                        "name": "www.guardian.co.uk"
+                    },
+                    {
+                        "count": 2,
+                        "id": "www.nytimes.com",
+                        "name": "www.nytimes.com"
+                    },
+                    {
+                        "count": 1,
+                        "id": "www.reuters.com",
+                        "name": "www.reuters.com"
+                    }
+                ],
+                "filters": [],
+                "name": "Source"
+            }
+        ]
+    }
+}

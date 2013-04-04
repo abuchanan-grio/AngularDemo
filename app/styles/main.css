@@ -53,23 +53,80 @@ body {
 }
 
 #navigation .nav {
+	background:#2a2a2a;
 	position:relative;
 	overflow:hidden;
+	height:40px;
 }
 
-#navigation .nav img:nth-child(2) {
-	position:absolute;
-	right:0px;
+#navigation .nav a {
+	color:#fff;
+	display:block;
+	font-size:20px;
+	font-weight:lighter;
+	letter-spacing:2px;
+	text-decoration:none;
+	margin:10px 5px;
 }
 
 #navigation .dashboard {
-	background:#003C3D;
-	color:#fff;
+	background:#fff;
+	color:#000;
 	height:30px;
 	overflow:hidden;
 }
 
 #navigation .dashboard h3 {
 	display:block;
+	font-weight:bold;
 	margin:5px 0 0 5px;
+}
+
+#documents table {
+	width:800px
+}
+
+#documents table tr.documentListHeader th {
+	font-size:12px;
+	padding:2px 0;
+}
+
+#documents table tr.documentListHeader th:nth-child(1) {
+	padding-left:2px;
+	width:12px;	
+}
+
+#documents table tr.documentListHeader th:nth-child(2) {
+	padding-left:10px;
+}
+
+#documents table tr.documentListItem {
+	color:#7a7b7f;
+	font-size:9px;
+}
+
+#documents table tr.documentListItem td {
+	border-top: 1px solid #d2d3d8;
+	border-bottom: 1px solid #d2d3d8;
+	height:40px;
+}
+
+#documents table tr.documentListItem td:nth-child(1) {
+	border-left: 1px solid #d2d3d8;
+	padding-left:2px;
+	width:12px;
+}
+
+#documents table tr.documentListItem td:nth-child(2) {
+	font-size:12px;
+	padding-left:10px;
+	width:65%;
+}
+
+#documents table tr.documentListItem td:nth-child(3) {
+	width:25%;
+}
+
+#documents table tr.documentListItem td:nth-child(4) {
+	border-right: 1px solid #d2d3d8;
 }

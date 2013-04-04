@@ -10,6 +10,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.9.1/build/cssreset/cssreset-min.css">
     <link rel="stylesheet" href="styles/main.css">
   </head>
   <body ng-app="AngularDemoApp">
@@ -24,8 +25,9 @@
 
     <!-- Add your site or application content here -->
     <div id="navigation" ng-include src='"views/navigation.html"'></div>
+    <div id="filter_search" ng-include src='"views/filter_search.html"'></div>
     <div style="overflow:hidden">
-      <div style="width:200px;height:500px;float:left"></div>
+      <div id="sidebar" ng-include src='"views/sidebar.html"'></div>      
       <div class="container" style="overflow:hidden" ng-view></div>
     </div>
 
@@ -46,6 +48,7 @@
     <!-- build:js scripts/scripts.js -->
     <script src="scripts/app.js"></script>
     <script src="scripts/controllers/controller.dashboard.js"></script>
+    <script src="scripts/controllers/controller.documents.js"></script>
     <script src="scripts/directives/directive.highcharts.js"></script>
     <!-- endbuild -->
 

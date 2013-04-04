@@ -7,6 +7,10 @@ angular.module('AngularDemoApp', [])
         templateUrl: 'views/dashboard.html',
         controller: 'DashboardCtrl'
       })
+      .when('/docs', {
+        templateUrl: 'views/documents.html',
+        controller: 'DocumentsCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
