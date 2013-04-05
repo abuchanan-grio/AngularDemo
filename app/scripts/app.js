@@ -11,6 +11,10 @@ angular.module('AngularDemoApp', [])
         templateUrl: 'views/documents.html',
         controller: 'DocumentsCtrl'
       })
+      .when('/charts', {
+        templateUrl: 'views/charts.html',
+        controller: 'DocumentsCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });

@@ -48,6 +48,32 @@ body {
 	height:350px;
 }
 
+#filter_search {
+	background:#ccc;
+	width:100%;
+	height:40px;
+	margin-bottom:15px;
+	position:relative;	
+}
+
+#filter_search a {
+	color:#000;
+	display:block;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	position:absolute;
+	bottom:10px;
+}
+
+#filter_search a:first-child {
+	right:100px;
+}
+
+#filter_search a:nth-child(2) {
+	right:30px;
+}
+
 #navigation {
 	overflow:hidden;
 }
@@ -62,11 +88,23 @@ body {
 #navigation .nav a {
 	color:#fff;
 	display:block;
-	font-size:20px;
+	font-size:12px;
 	font-weight:lighter;
 	letter-spacing:2px;
 	text-decoration:none;
-	margin:10px 5px;
+	position:absolute;
+	bottom:2px;
+}
+
+#navigation .nav a:first-child {
+	font-size:20px;
+	font-weight:lighter;	
+}
+
+#navigation .nav a:nth-child(2) {
+	font-size:12px;
+	left:100px;
+	bottom:5px;
 }
 
 #navigation .dashboard {
@@ -135,4 +173,15 @@ body {
 
 #documents table tr.documentListItem td:nth-child(4) {
 	border-right: 1px solid #d2d3d8;
+}
+
+#charts .chart {
+	float:left;
+	height:300px;
+	width:300px;
+	margin-right:10px	
+}
+
+#charts .chart .chart_title {
+	width:300px;
 }
