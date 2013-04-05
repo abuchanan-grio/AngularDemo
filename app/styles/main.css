@@ -60,6 +60,7 @@ body {
 	color:#000;
 	display:block;
 	font-size:12px;
+	font-weight:bold;
 	position:absolute;
 	bottom:10px;
 }
@@ -69,7 +70,6 @@ body {
 }
 
 #filter_search a {
-	font-weight:bold;
 	text-decoration:none;
 }
 
