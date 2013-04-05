@@ -56,21 +56,28 @@ body {
 	position:relative;	
 }
 
-#filter_search a {
+#filter_search a, #filter_search span {
 	color:#000;
 	display:block;
 	font-size:12px;
-	font-weight:bold;
-	text-decoration:none;
 	position:absolute;
 	bottom:10px;
 }
 
-#filter_search a:first-child {
-	right:100px;
+#filter_search span {
+	left:10px;
+}
+
+#filter_search a {
+	font-weight:bold;
+	text-decoration:none;
 }
 
 #filter_search a:nth-child(2) {
+	right:100px;
+}
+
+#filter_search a:nth-child(3) {
 	right:30px;
 }
 
@@ -173,6 +180,10 @@ body {
 
 #documents table tr.documentListItem td:nth-child(4) {
 	border-right: 1px solid #d2d3d8;
+}
+
+#charts {
+	width:1280px;
 }
 
 #charts .chart {
